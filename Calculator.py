@@ -121,4 +121,4 @@ calories_calculator.add_record(Record(amount=84, comment='Йогурт.',
 calories_calculator.add_record(Record(amount=1140, comment='Баночка чипсов.',
                                       date='31.01.2024'))
 
-print(f'5.{calories_calculator.get_calories_remained()}')
+print(f'4.{calories_calculator.get_calories_remained()}')
